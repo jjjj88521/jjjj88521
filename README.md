@@ -1,7 +1,7 @@
 ### 👋 大家好，我是宗霖，一個正在努力奮鬥的前端工程師。
 ### 👋 Hello there! I'm Jack You, a front-end development engineer. Feel free to reach out for a chat and let's learn and grow together.
 
-[![visitors](https://visitor-badge.laobi.icu/badge?jjjj88521.jjjj88521)](https://github.com/jjjj88521)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjjj88521.jjjj88521)](https://github.com/jjjj88521)
 
 
 - 💼 I’m currently working in Taipei, Taiwan
