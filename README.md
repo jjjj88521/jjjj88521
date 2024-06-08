@@ -1,5 +1,7 @@
-### 👋 大家好，我是宗霖，一個正在努力奮鬥的前端工程師。
-### 👋 Hello there! I'm Jack You, a front-end development engineer. Feel free to reach out for a chat and let's learn and grow together.
+<div align=center>
+  <h4>👋 大家好，我是宗霖，一個正在努力奮鬥的前端工程師。</h4>
+  <h4>👋 Hello there! I'm Jack You, a front-end development engineer. Feel free to reach out for a chat and let's learn and grow together.</h4>
+</div>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjjj88521.jjjj88521)](https://github.com/jjjj88521)
 
