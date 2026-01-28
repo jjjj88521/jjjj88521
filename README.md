@@ -47,6 +47,8 @@
 
 **GitHub Stats:**
 
+<img src="/github-metrics.svg" alt="Metrics" width="400">
+
 <table>
 <tbody>
 <tr>
@@ -63,8 +65,6 @@
 </tr>
 </tbody>
 </table>
-
-          <img  src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--
 **jjjj88521/jjjj88521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
