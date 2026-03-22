@@ -1,5 +1,4 @@
 <div align=center>
-  <h3>👋 大家好，我是宗霖，一個正在努力奮鬥的前端工程師。</h3>
   <h3>👋 Hello there! I'm Jack You, a front-end development engineer. Feel free to reach out for a chat and let's learn and grow together.</h3>
 </div>
 
@@ -46,8 +45,6 @@
 
 
 **GitHub Stats:**
-
-<img src="/github-metrics.svg" alt="Metrics" width="400">
 
 <table>
 <tbody>
