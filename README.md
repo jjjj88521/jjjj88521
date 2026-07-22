@@ -50,7 +50,7 @@
   <a href="https://github.com/jjjj88521">
     <img
       width="420"
-      src="https://github-stats-extended.vercel.app/api?username=jjjj88521&amp;hide=contribs,prs&amp;show_icons=true"
+      src="https://github-stats-extended.vercel.app/api?username=jjjj88521&amp;hide=prs&amp;include_all_commits=true&count_private=true&amp;show_icons=true"
       alt="Jack You's GitHub Stats"
     />
   </a>
