@@ -46,22 +46,22 @@
 
 **GitHub Stats:**
 
-<table>
-<tbody>
-<tr>
-<td>
-
-[![jjjj88521's github stats](https://github-readme-stats.vercel.app/api?username=jjjj88521&hide=contribs,prs&show_icons=true)](https://github.com/super456)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjj88521&layout=compact)](https://github.com/super456)
-
-</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <a href="https://github.com/jjjj88521">
+    <img
+      width="420"
+      src="https://github-stats-extended.vercel.app/api?username=jjjj88521&amp;hide=contribs,prs&amp;show_icons=true"
+      alt="Jack You's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/jjjj88521">
+    <img
+      width="420"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=jjjj88521&amp;layout=compact"
+      alt="Jack You's Most Used Languages"
+    />
+  </a>
+</div>
 
 <!--
 **jjjj88521/jjjj88521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
